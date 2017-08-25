@@ -43,5 +43,6 @@ int main(){
 	a1.calculate();	
 	a2.getinput();
 	a2.calculate();
+	cout<<"DONE"<<endl;
 	return 0;
 }
